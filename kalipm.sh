@@ -62,7 +62,14 @@ clear
 PS3="$(tput setaf 4)Please select a category: $(tput sgr0)"
 echo ""
 echo ""
-echo "		Enter the Menu you are interested in"
+echo -e "       \e[34m _  __     _ _                 \e[0m"
+echo -e "       \e[34m| |/ /__ _| (_)_ __  _ __ ___  \e[0m"
+echo -e "       \e[34m| ' // _\` | | | '_ \| '_ \` _ \ \e[0m"
+echo -e "       \e[34m| . \\ (_| | | | |_) | | | | | |\e[0m"
+echo -e "       \e[34m|_|\_\\__,_|_|_| .__/|_| |_| |_|\e[0m"
+echo -e "       \e[34m              |_|\e[0m"
+echo "  Enter the Menu you are interested in"
+
 options=("System" "Desktop" "Tools" "Menu" "Others" "Quit" "Update")
 select opt in "${options[@]}"
 do
