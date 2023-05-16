@@ -42,6 +42,17 @@ git clone https://github.com/HalilDeniz/KaliPackergeManager.git
 
 KaliPM.sh also includes an update feature to ensure your system is up to date. Simply select the "Update" option from the menu, and the script will run the necessary commands to clean, update, upgrade, and perform a full-upgrade on your system.
 
+## Contributing
+Contributions are welcome! To contribute to KaliPackergeManager, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Open a pull request in the main repository.
+
+
+
 ## Contact
 
 If you have any questions, comments, or suggestions about Tool Name, please feel free to contact me:
