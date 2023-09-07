@@ -1,5 +1,6 @@
 # KaliPackergeManager
 kalipm.sh is a powerful package management tool for Kali Linux that provides a user-friendly menu-based interface to simplify the installation of various packages and tools. It streamlines the process of managing software and enables users to effortlessly install packages from different categories.
+<img src="source/kalipm.png">
 
 
 ## Features
