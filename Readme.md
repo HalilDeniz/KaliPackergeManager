@@ -56,13 +56,16 @@ Contributions are welcome! To contribute to KaliPackergeManager, follow these st
 
 ## Contact
 
-If you have any questions, comments, or suggestions about Tool Name, please feel free to contact me:
+If you have any questions, comments, or suggestions about Tool KaliPackergeManager, please feel free to contact me:
 
-- LinkedIn: https://www.linkedin.com/in/halil-ibrahim-deniz/
-- TryHackMe: https://tryhackme.com/p/halilovic
-- Instagram: https://www.instagram.com/deniz.halil333/
-- YouTube: https://www.youtube.com/c/HalilDeniz
+- Linktr [halildeniz](https://linktr.ee/halildeniz)
+- DenizHalil [DenizHalil](https://denizhalil.com)
+- LinkedIn: [Halil Ibrahim Deniz](https://www.linkedin.com/in/halil-ibrahim-deniz/)
+- TryHackMe: [Halilovic](https://tryhackme.com/p/halilovic)
+- Instagram: [deniz.halil333](https://www.instagram.com/deniz.halil333/)
+- YouTube: [Halil Deniz](https://www.youtube.com/c/HalilDeniz)
 - Email: halildeniz313@gmail.com
+
 
 ## License
 
